@@ -1,5 +1,5 @@
 
-// PHY constants for the CC2420
+// PHY constants for the RF230
 #ifndef __TKN154_PHY_H
 #define __TKN154_PHY_H
 #include "TKN154_MAC.h"
